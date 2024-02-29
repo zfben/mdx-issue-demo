@@ -1,0 +1,29 @@
+{
+    "name": "demo",
+    "private": true,
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "@mdx-js/mdx": "*",
+        "@mdx-js/react": "*",
+        "react": "*",
+        "react-native": "^0.73",
+        "@babel/core": "*",
+        "@babel/preset-env": "*",
+        "@babel/runtime": "*",
+        "@react-native/babel-preset": "^0.73",
+        "@react-native/metro-config": "^0.74",
+        "@react-native/typescript-config": "^0.74",
+        "@types/react": "^18",
+        "@types/react-test-renderer": "^18",
+        "@types/jest": "*",
+        "@testing-library/react-native": "*",
+        "react-test-renderer": "^18",
+        "typescript": "*",
+        "metro-config": "^0.80",
+        "@biomejs/biome": "*",
+        "babel-jest": "*",
+        "jest": "*"
+    }
+}
